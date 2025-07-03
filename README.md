@@ -36,13 +36,13 @@ Utiliza pyttsx3 para sintetizar texto a voz localmente (sin necesidad de conexi�
 Emplea SpeechRecognition para transcribir archivos .wav a texto mediante motores como Google Speech API.
 
 🛠 Instalación
-1- Clona este repositorio:
+1. Clona este repositorio:
 - git clone https://github.com/MiguelNaranjo02/Multi-PLN
 - cd nlp-texto-voz
   
 2. pip install -r requirements.txt
 
-   🧪 Ejecución
+🧪 Ejecución
 Abre el notebook en Jupyter:
 
 - jupyter notebook TextoVoz.ipynb
