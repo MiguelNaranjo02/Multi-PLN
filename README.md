@@ -41,7 +41,8 @@ Emplea SpeechRecognition para transcribir archivos .wav a texto mediante motores
 - cd nlp-texto-voz
   
 2. pip install -r requirements.txt
-🧪 Ejecución
+
+   🧪 Ejecución
 Abre el notebook en Jupyter:
 
 - jupyter notebook TextoVoz.ipynb
